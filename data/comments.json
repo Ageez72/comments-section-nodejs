@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "content": "Impressive! Though it seems the drag feature could be improved. But overall it looks great. You've nailed the design and the responsiveness at various breakpoints works really well. Great work!",
+    "score": 14,
+    "username": "ramessesblank",
+    "avatar": "https://i.pravatar.cc/64?img=12",
+    "createdAt": "2024-04-23T10:00:00.000Z",
+    "parentId": null,
+    "isCurrentUser": false
+  },
+  {
+    "id": 2,
+    "content": "Woah, your project looks awesome! How long have you been coding for? I'm about to start this challenge and it would be great to get some tips!",
+    "score": 15,
+    "username": "maxblagun",
+    "avatar": "https://i.pravatar.cc/64?img=33",
+    "createdAt": "2024-05-09T10:00:00.000Z",
+    "parentId": 1,
+    "isCurrentUser": false
+  },
+  {
+    "id": 4,
+    "content": "@ramsesmiron just to be sure, will you love to master React?",
+    "score": 2,
+    "username": "maxblagun",
+    "avatar": "https://i.pravatar.cc/64?img=33",
+    "createdAt": "2024-05-21T10:00:00.000Z",
+    "parentId": 1,
+    "isCurrentUser": false
+  },
+  {
+    "id": 5,
+    "content": "This app will be SOOOO much better if it actually does anything. Please add interactivity before you add this app. Thanks! 🙂",
+    "score": 9,
+    "username": "juliusomo",
+    "avatar": "https://i.pravatar.cc/64?img=15",
+    "createdAt": "2024-03-23T10:00:00.000Z",
+    "parentId": null,
+    "isCurrentUser": false
+  },
+  {
+    "id": 6,
+    "content": "test",
+    "score": 1,
+    "username": "ramsesmiron",
+    "avatar": "https://i.pravatar.cc/64?img=68",
+    "createdAt": "2026-06-23T09:01:20.931Z",
+    "parentId": null,
+    "isCurrentUser": true
+  },
+  {
+    "id": 7,
+    "content": "hello 2",
+    "score": 0,
+    "username": "ramsesmiron",
+    "avatar": "https://i.pravatar.cc/64?img=68",
+    "createdAt": "2026-06-23T09:01:32.483Z",
+    "parentId": 2,
+    "isCurrentUser": true
+  },
+  {
+    "id": 8,
+    "content": "هالو دير",
+    "score": 8,
+    "username": "ramsesmiron",
+    "avatar": "https://i.pravatar.cc/64?img=68",
+    "createdAt": "2026-06-23T09:19:07.957Z",
+    "parentId": null,
+    "isCurrentUser": true
+  },
+  {
+    "id": 9,
+    "content": "هاي",
+    "score": 0,
+    "username": "ramsesmiron",
+    "avatar": "https://i.pravatar.cc/64?img=68",
+    "createdAt": "2026-06-23T09:20:22.844Z",
+    "parentId": 2,
+    "isCurrentUser": true
+  }
+]
